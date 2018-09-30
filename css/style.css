@@ -6,7 +6,7 @@ body {
 }
 
 svg.intro {
-  background: linear-gradient(135deg, #0080ff, #39004d);
+  background: linear-gradient(135deg, #0080ff, #000066);
   max-width: 800px;
   position: absolute;
   top: 50%;
